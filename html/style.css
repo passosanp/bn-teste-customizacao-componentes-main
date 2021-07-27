@@ -51,3 +51,8 @@
 .beon-button.beon-button--primary:hover{
     border: 2px solid var(--aqua-beon);
 }
+
+.beon-showcase__viewmore:hover{
+    font-weight: bolder;
+    color: var(--aqua-beon) !important;
+}
